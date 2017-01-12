@@ -18,4 +18,4 @@ cd /tmp/log
 echo `date +%Y%m%d\-%H%M%S`- $a files copied>>$r1
 
 echo `date +%Y%m%d\-%H%M%S`- script ending>>$r1
-cat /tmp/log/$r1|mailx siddharth16reddy@gmail.com 
+cat /tmp/log/$r1|mailx siddharth16reddy@gmail.com, rahul.varakala@gmail.com 
