@@ -1,0 +1,2 @@
+#setting up cron
+0 * * * * /home/ec2-user/shell/sid.sh>a.log 2>&1
